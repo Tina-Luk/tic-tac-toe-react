@@ -1,6 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# This repo builds an interactive tic-tac-toe game with React.
+
+## This game has interactive components. Alternate placing “X”s and “O”s on the board, and a way to determine a winner. It is also possible to "go back in time" to the previous moves in the game.
+
+### Why Immutability is Important?
+
+- Complex Features Become Simple
+- Detecting Changes
+- Determining When to Re-Render in React
+
+![Preview of tic-tac-toe](https://github.com/Tina-Luk/tic-tac-toe-react/blob/master/Tic-tac-toe-react.PNG)
+
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -65,4 +77,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
